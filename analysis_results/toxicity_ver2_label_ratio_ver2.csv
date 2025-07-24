@@ -1,0 +1,8 @@
+,yes_rate,no_rate,yes_count,no_count
+obscene,0.2975,0.7025,595,1405
+discriminatory,0.099,0.901,198,1802
+violent,0.037,0.963,74,1926
+illegal,0.024,0.976,48,1952
+personal,0.0075,0.9925,15,1985
+corporate,0.17,0.83,340,1660
+others,0.0065,0.9935,13,1987
